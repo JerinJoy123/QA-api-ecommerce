@@ -1,6 +1,6 @@
-# 🧪 E-Commerce API QA Automation Framework
+#  E-Commerce API QA Automation Framework
 
-This project simulates testing of a RESTful e-commerce API. Built using Python, Pytest, and Requests with Allure reporting and GitHub Actions CI integration.
+This project simulates testing of a RESTful e-commerce API. Built using Python, Pytest and Requests with Allure reporting and GitHub Actions CI integration.
 
 ## 🔧 Stack
 - Python 3.11
@@ -9,14 +9,14 @@ This project simulates testing of a RESTful e-commerce API. Built using Python, 
 - Allure
 - GitHub Actions
 
-## 🚀 Run Tests
+##  Run Tests
 ```bash
 pip install -r requirements.txt
 pytest
 allure serve reports/
 ```
 
-## 📁 Structure
+##  Structure
 ```
 tests/ - Test cases
 utils/ - Helper functions
